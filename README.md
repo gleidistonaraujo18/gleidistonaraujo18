@@ -8,14 +8,13 @@ Olá, sou Gleidiston Araujo, um entusiasta Desenvolvedor de Software com formaç
 - 💼 LinkedIn: [Gleidiston Araujo](https://www.linkedin.com/in/gleidiston-ferreira-de-araujo/)
 
 ## Objetivo
-Estou constantemente estudando, e buscando desafios que me permitam aprimorar minhas habilidades e contribuir para o avanço da tecnologia.
+Estou constantemente estudando e buscando desafios que me permitam aprimorar minhas habilidades e contribuir para o avanço da tecnologia.
 
 ## My Skills
-- Frontend
- <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql"/>
+- **Frontend**
+  ![PHP](https://skillicons.dev/icons/php) ![Laravel](https://skillicons.dev/icons/laravel) ![JavaScript](https://skillicons.dev/icons/javascript) ![Node.js](https://skillicons.dev/icons/nodejs) ![Express.js](https://skillicons.dev/icons/express) ![Sequelize](https://skillicons.dev/icons/sequelize) ![MySQL](https://skillicons.dev/icons/mysql)
 
- - Backend
-   <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql"/>
+- **Backend**
+  ![PHP](https://skillicons.dev/icons/php) ![Laravel](https://skillicons.dev/icons/laravel) ![JavaScript](https://skillicons.dev/icons/javascript) ![Node.js](https://skillicons.dev/icons/nodejs) ![Express.js](https://skillicons.dev/icons/express) ![Sequelize](https://skillicons.dev/icons/sequelize) ![MySQL](https://skillicons.dev/icons/mysql)
 
 Vamos construir algo incrível juntos! 🚀
-
