@@ -12,9 +12,11 @@ Estou constantemente estudando e buscando desafios que me permitam aprimorar min
 
 ## My Skills
 - **Frontend**
-  ![PHP](https://skillicons.dev/icons/php) ![Laravel](https://skillicons.dev/icons/laravel) ![JavaScript](https://skillicons.dev/icons/javascript) ![Node.js](https://skillicons.dev/icons/nodejs) ![Express.js](https://skillicons.dev/icons/express) ![Sequelize](https://skillicons.dev/icons/sequelize) ![MySQL](https://skillicons.dev/icons/mysql)
+- <div>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql"/>
+</div>
 
 - **Backend**
-  ![PHP](https://skillicons.dev/icons/php) ![Laravel](https://skillicons.dev/icons/laravel) ![JavaScript](https://skillicons.dev/icons/javascript) ![Node.js](https://skillicons.dev/icons/nodejs) ![Express.js](https://skillicons.dev/icons/express) ![Sequelize](https://skillicons.dev/icons/sequelize) ![MySQL](https://skillicons.dev/icons/mysql)
+
 
 Vamos construir algo incrível juntos! 🚀
