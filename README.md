@@ -11,7 +11,7 @@ Olá, sou Gleidiston Araujo, um entusiasta Desenvolvedor de Software com formaç
 Estou constantemente estudando, e buscando desafios que me permitam aprimorar minhas habilidades e contribuir para o avanço da tecnologia.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=html,css,bootstrap,react,ts,php,laravel,js,nodejs,express,sequelize,mysql)https://skillicons.dev/icons?i=html,css,bootstrap,react,ts,php,laravel,js,nodejs,express,sequelize,mysql)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=html,css,bootstrap,react,ts,php,laravel,js,nodejs,express,sequelize,mysql)https://skillicons.dev/icons?i=html,css,bootstrap,react,ts,php,laravel,js,nodejs,express,sequelize,mysql)
 
 Vamos construir algo incrível juntos! 🚀
 
