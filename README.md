@@ -13,7 +13,7 @@ Estou constantemente estudando, e buscando desafios que me permitam aprimorar mi
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql" />
   </a>
 </p>
 
