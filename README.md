@@ -1,22 +1,20 @@
 # Bem-vindo ao meu GitHub! 👋
 
 ## Sobre Mim
-Olá, sou Gleidiston Araujo, um entusiasta Desenvolvedor Backend com habilidades sólidas em PHP, SQL, Laravel e Docker. Meu foco está em criar soluções eficientes e escaláveis que impulsionem a inovação no desenvolvimento web.
-
-## Habilidades
-- 💻 Desenvolvimento Backend em PHP
-- 🛢️ SQL e Otimização de Banco de Dados
-- 🚀 Desenvolvimento com Laravel
-- 🐳 Utilização eficaz de Docker para ambiente de desenvolvimento
-
-## Contribuições
-Comprometido com a comunidade de código aberto, contribuo ativamente para projetos relevantes. Explore meus repositórios para descobrir soluções inovadoras.
+Olá, sou Gleidiston Araujo, um entusiasta Desenvolvedor de Software com formação em Análise e Desenvolvimento de Sistemas, além de possuir diversos certificados na área. Meu foco está em criar soluções eficientes e escaláveis que impulsionem a inovação no desenvolvimento web.
 
 ## Contato
 - 📧 Email: gleidiston.araujo@outlook.com.br
 - 💼 LinkedIn: [Gleidiston Araujo](https://www.linkedin.com/in/gleidiston-ferreira-de-araujo/)
 
 ## Objetivo
-Estou constantemente buscando desafios que me permitam aprimorar minhas habilidades e contribuir para o avanço da tecnologia. Se você compartilha do mesmo entusiasmo por PHP, Laravel e Docker, estou aberto a colaborações e pronto para discutir novos projetos emocionantes!
+Estou constantemente estudando, e buscando desafios que me permitam aprimorar minhas habilidades e contribuir para o avanço da tecnologia.
+
+## My Skills
+[![Frontend]([https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=html,css,js,react,bootstrap))](https://skillicons.dev)
+
+[![Backend]([[https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=html,css,js,react,bootstrap](https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql)https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql))](https://skillicons.dev)
+
 
 Vamos construir algo incrível juntos! 🚀
+
