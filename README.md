@@ -12,9 +12,9 @@ Estou constantemente estudando e buscando desafios que me permitam aprimorar min
 
 ## My Skills
 - **Frontend**
-- <div>
+  <div>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,sequelize,mysql"/>
-</div>
+  </div>
 
 - **Backend**
 
