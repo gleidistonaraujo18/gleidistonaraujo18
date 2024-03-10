@@ -13,7 +13,7 @@ Estou constantemente estudando e buscando desafios que me permitam aprimorar min
 ## My Skills
 - **Frontend**
   <div>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,ts"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery,ts"/>
   </div>
 
 - **Backend**
