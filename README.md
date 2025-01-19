@@ -18,7 +18,7 @@ Estou constantemente estudando e buscando desafios que me permitam aprimorar min
 
 - **Backend**
   <div>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,sequelize,ts,mysql"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,sequelize,ts,mysql,docker"/>
   </div>
 
 
