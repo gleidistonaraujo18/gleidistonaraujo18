@@ -3,9 +3,6 @@
 ## 👨‍💻 Sobre Mim  
 Sou **Gleidiston Araujo**, desenvolvedor de software com graduação em **Análise e Desenvolvimento de Sistemas**. Tenho experiência no desenvolvimento de aplicações escaláveis e eficientes. Busco constantemente aprimorar minhas habilidades, aplicando boas práticas e tecnologias modernas para criar soluções robustas e bem estruturadas.  
 
-## 🎯 Objetivo  
-Meu objetivo é evoluir profissionalmente como desenvolvedor backend, participando de projetos desafiadores que me permitam aprender, crescer e agregar valor por meio da tecnologia.  
-
 ## 🛠️ Tecnologias  
 
 ### Backend  
