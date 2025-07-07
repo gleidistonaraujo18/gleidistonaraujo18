@@ -17,6 +17,6 @@ Sou **Gleidiston Araujo**, desenvolvedor de software com graduação em **Análi
 
 ## 📬 Contato  
 - 📧 **Email:** gleidiston.araujo@outlook.com.br  
-- 💼 **LinkedIn:** [Gleidiston Araujo](https://www.linkedin.com/in/gleidiston-ferreira-de-araujo/)  
+- 💼 **LinkedIn:** [Gleidiston Araujo](https://www.linkedin.com/in/gleidistonaraujo/)  
 
 Estou sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos! 🚀
