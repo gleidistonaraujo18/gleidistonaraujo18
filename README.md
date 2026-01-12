@@ -7,7 +7,7 @@ Sou **Gleidiston Araujo**, desenvolvedor de software com graduação em **Análi
 
 ### Backend  
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,ts,php,laravel,mysql,docker"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,ts,php,laravel,java,mysql,docker"/>
 </div>  
 
 ### Frontend  
