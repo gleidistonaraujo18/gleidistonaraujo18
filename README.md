@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gleidiston Araujo
-### Backend Developer · PHP & Laravel Specialist
+### Backend Developer · PHP & Laravel
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=777BB4&center=true&vCenter=true&width=600&lines=PHP+%26+Laravel+Developer;API+REST;MySQL+%7C+Docker+%7C+Redis;Vue.js+%2B+TypeScript+no+Front)](https://git.io/typing-svg)
 
