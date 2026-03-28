@@ -3,7 +3,7 @@
 # Gleidiston Araujo
 ### Backend Developer · PHP & Laravel Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=777BB4&center=true&vCenter=true&width=600&lines=PHP+%26+Laravel+Developer;API+REST+Specialist;MySQL+%7C+Docker+%7C+Redis;Vue.js+%2B+TypeScript+no+Front)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=777BB4&center=true&vCenter=true&width=600&lines=PHP+%26+Laravel+Developer;API+REST;MySQL+%7C+Docker+%7C+Redis;Vue.js+%2B+TypeScript+no+Front)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gleidiston_Araujo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleidistonaraujo/)
 [![Email](https://img.shields.io/badge/Email-gleidiston.araujo@outlook.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleidiston.araujo@outlook.com.br)
